@@ -17,5 +17,5 @@ We do **NOT** share any of our user data, since we know how important privacy is
 ### I want to delete all my data, how am I able to do it ?
 
 There are 2 main options available to delete your data.
-- You can either contact the developer on Discord (!nsane#0828) providing your User ID / Server ID. Once the developer is online, your data will be deleted as soon as possible!
+- You can either contact the developer on Discord (Insane#0828) providing your User ID / Server ID. Once the developer is online, your data will be deleted as soon as possible!
 - Join our Discord Support Server by using the `support` command, go to `#chat` and mention your current state and issue. You will get support in less than 1hrs.
